@@ -1,0 +1,3 @@
+101,Double,Occupied
+102,Single,Unoccupied
+103,Single,Occupied
